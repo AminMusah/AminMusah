@@ -4,7 +4,7 @@ Hi 👋 My name is Amin Musah Ahmed
 Software Developer
 ------------------
 
-I'm excited about creating things that have a home on the internet. I first got interested in software development in 2020 and since then, I've been fortunate enough to work at a start-up and do freelance web development projects. I continuously push my boundaries by learning new technologies to obtain the best results. I make sure the project looks great and functions smoothly.
+I'm excited about creating things that have a home on the internet. I first got interested in software development in 2020 and since then, I've been fortunate enough to work at a start-up and also work on freelance projects. I continuously push my boundaries by learning new technologies to obtain the best results. I make sure the project looks great and functions smoothly.
 
 * ✉️  You can contact me at [ameenmusah77@gmail.com](mailto:ameenmusah77@gmail.com)
 
